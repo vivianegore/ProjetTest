@@ -31,6 +31,9 @@
                 <input type="submit" value="Connexion" name="connexion" ><br>
                 <p>Vous n'avez pas encore de compte <a href="inscription.php">Inscrivez-vous</a></p>
             </center>
+            <center>
+                <p>Voir la liste des Utilisateurs <a href="users.php">Voir Liste</a></p>
+            </center>
         </form>
     </div>
 
